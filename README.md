@@ -1,14 +1,18 @@
 Unit Testing Instructions
+
+
 Thanks for the opportunity to work on this project. I hope you will find it useful. If you would like any changes or improvements, feel free to let me know.
 
-Running Unit Tests:
+1) Running Unit Tests:
 
 To run the unit tests in your Spring Boot application, use the following command in your terminal or command prompt:
 
 ./mvnw test
 This will execute all the tests and display the results in the terminal.
 
-Viewing Test Results in Console:
+
+
+2) Viewing Test Results in Console:
 
 After running the tests, you will see the test summary directly in the console output:
 
@@ -25,11 +29,12 @@ In this folder, you'll find:
 .txt files: A simpler summary of the test results.
 Open these files to explore detailed information about each test's execution.
 
-Tips for Unit Testing:
+
+
+3) Tips for Unit Testing:
 
 Always run tests after making changes to the code to ensure everything works.
 If a test fails, check the detailed report to find the issue.
-Add new tests for every feature you implement or bug you fix to maintain high code quality.
 
 
 Have a Happy Weekend! 🎉
